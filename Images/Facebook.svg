@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="87" height="87" viewBox="0 0 87 87">
+  <defs>
+    <filter id="Ellipse_51" x="0" y="0" width="87" height="87" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Facebook" transform="translate(-1244.5 -3733.5)">
+    <g id="Group_4875" data-name="Group 4875" transform="translate(328 101)">
+      <g transform="matrix(1, 0, 0, 1, 916.5, 3632.5)" filter="url(#Ellipse_51)">
+        <circle id="Ellipse_51-2" data-name="Ellipse 51" cx="21" cy="21" r="21" transform="translate(22.5 17.5)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="iconfinder_facebook_1164534" transform="translate(1243.714 3719.787)">
+      <path id="Path_8049" data-name="Path 8049" d="M99.845,95.172c.094-4.545-.082-8.82-.073-9.087.014-.38-2.393.157-2.689-.156s-.467-2.693-.074-2.9,2.168.167,2.543-.078-1.626-8.175,6.58-6.423a8.508,8.508,0,0,1-.15,2.976c-.131.206-1.794-.264-2.692.47s-.523,2.761-.336,2.9,2.851.029,3.028.235a7.781,7.781,0,0,1,0,2.976c-.206.2-2.94-.356-3.215-.157-.227.165.6,8.881.361,9.226s-1.092.316-1.632.329" transform="translate(-57.216 -33.669)" fill="none" stroke="#74b9ad" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="87" height="87" viewBox="0 0 87 87">
+  <defs>
+    <filter id="Ellipse_51" x="0" y="0" width="87" height="87" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="LinkedIn" transform="translate(-1164.5 -3625.5)">
+    <g id="Group_4872" data-name="Group 4872" transform="translate(248 -7)">
+      <g transform="matrix(1, 0, 0, 1, 916.5, 3632.5)" filter="url(#Ellipse_51)">
+        <circle id="Ellipse_51-2" data-name="Ellipse 51" cx="21" cy="21" r="21" transform="translate(22.5 17.5)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="iconfinder_linkedin_1164533" transform="translate(1162.468 3623.049)">
+      <path id="linkedin-2" data-name="linkedin" d="M85.833,93.179c-.057-3.237.156-9.448-.15-9.754s-2.713-1.218-3.164-1.918a1.346,1.346,0,0,1,1.293-2.1,1.442,1.442,0,0,1,1.4,2.2c-.42.868-2.8,1.509-3.07,1.862s-.387,10.5,0,10.75a19.257,19.257,0,0,0,5.67-.083c.43-.311-.537-10.376,0-10.625a8.686,8.686,0,0,1,3.05-.166c.279.125.107,1.183.3,1.287s1.619-1.719,3.866-1.453a4.016,4.016,0,0,1,3.393,2.905,67.887,67.887,0,0,1,.086,7.969c-1.145.042-2.291.1-3.436.145a54.93,54.93,0,0,0-.129-6.7c-.3-1.536-3.554-1.515-3.522,0s.258,6.7-.43,6.682" transform="translate(-44.699 -45.945)" fill="none" stroke="#74b9ad" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>
